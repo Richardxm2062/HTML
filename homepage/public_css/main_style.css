@@ -27,7 +27,7 @@ a
 {
     width: 80rem;
     height: 12rem;
-    background:url(/homepage/img/banner.jpg) ;
+    background:url(/HTML/homepage/img/banner.jpg) ;
     background-size: cover;
     border-top: 0.1rem solid #ccc;
     border-left: 0.1rem solid #ccc;
@@ -106,7 +106,7 @@ a
     border-left: 0.1rem solid #ccc;
     border-right: 0.1rem solid #ccc;
     border-bottom: 0,1rem solid #ccc;
-    background: url(/homepage/img/menue.png);
+    background: url(/HTML/homepage/img/menue.png);
     background-size:cover;
     background-position:center;
     z-index: 2;
